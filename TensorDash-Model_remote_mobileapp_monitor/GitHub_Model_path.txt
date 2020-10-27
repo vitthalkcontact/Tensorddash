@@ -1,0 +1,38 @@
+GitHub:
+https://github.com/CleanPegasus/TensorDash
+
+https://cleanpegasus.github.io/TensorDash/usage/
+
+Model:
+https://github.com/krishnaik06/Tensorddash
+
+
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+Create environment: open anaconda primpt and change to current working directory
+conda create -n tensordash python=3.7
+
+
+COMMAND PATH for installation:
+https://github.com/CleanPegasus/TensorDash
+
+
+
+https://www.tensorflow.org/install/pip
+
+pip install tensorflow-gpu==2.3.1
+
+
+
+https://pypi.org/project/tensor-dash/
+
+version:tensor-dash 1.8.1
+
+pip install tensor-dash==1.8.1
+
+git clone from
+https://github.com/CleanPegasus/TensorDash
+
+install TensorDash app in mobile
+
+ 
